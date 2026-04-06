@@ -1,4 +1,4 @@
-# ProjektPP_METAR
+# PP_Projekt_METAR
 
 Projekt szkolny służący do automatycznego odczytu i dekodowania lotniczych raportów pogodowych METAR dla lotniska w Gdańsku (EPGD). Program przetwarza surowe depesze tekstowe na sformatowany, czytelny dla użytkownika raport.
 
